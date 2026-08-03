@@ -2,7 +2,7 @@
 
 An interactive data analysis and visualization project covering 5 seasons of the Indian Premier League (2021–2025), built using **Python (Pandas, NumPy, Matplotlib)** and originally modeled after a Power BI dashboard.
 
-## 📊 Overview
+# 📊 Overview
 
 This project analyzes IPL match data, team performance, and player statistics across 5 seasons, generating insights such as:
 - Season-wise Champions, Runner-ups, and Final venues
@@ -35,17 +35,10 @@ IPL Dashboard/
 - **Jupyter Notebook** – interactive analysis
 - **VS Code** – development environment
 
-- ME.md
-└── .gitignore
 
 
-## 🛠️ Tech Stack
 
-- **Python 3.11**
-- **Pandas** – data loading & manipulation
-- **NumPy** – numerical operations
-- **Matplotlib** – data visualization
-- **Jupyter Notebook** – interactive analysis
+
 
 
 # How to Run

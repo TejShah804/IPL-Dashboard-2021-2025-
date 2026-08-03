@@ -15,16 +15,21 @@ This project analyzes IPL match data, team performance, and player statistics ac
 
 # Folder Structure
 
+
+
+```
 IPL Dashboard/
 │
-├── img/ # Chart images used in this README
-│ ├── orange_cap.png
-│ ├── purple_cap.png
-│ ├── sum_of_wins_losses.png
-│ └── win_percent_by_team.png
+├── img/      
+    ├── dashboard.png
+│   ├── orange_cap.png
+│   ├── purple_cap.png
+│   ├── sum_of_wins_losses.png
+│   └── win_percent_by_team.png
 │
-├── analysis.ipynb # Main Jupyter Notebook with all analysis & charts
-├── IPL dashboard(2021-2025).xlsx # Source dataset (5 sheets: Champions, Orange Cap, Purple Cap, Team Stats, Team Performance)
+├── analysis.ipynb              
+└── IPL dashboard(2021-2025).xlsx   #dataset (5 sheets: Champions, Orange Cap, Purple Cap, Team Stats, Team Performance)
+```
 
 # Tech Stack
 
